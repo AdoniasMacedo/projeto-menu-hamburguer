@@ -36,7 +36,7 @@ header > span:hover{
 }
 
 nav{
-    display: none;
+    display: block;
 }
 
 nav > a{
